@@ -1,4 +1,6 @@
 
+## [5.0.6] - 2022-06-06
+
 ## [5.0.6] - 2022-01-13
 ### Fixed
 - Security vulnerabilities (axios, path-parse, minimist)
